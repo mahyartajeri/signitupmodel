@@ -1,0 +1,16 @@
+#ignore data
+debashishsau_dataset/
+debashishsau_dataset_processed/
+debashishsau_dataset_processed_train/
+debashishsau_dataset_processed_val/
+
+
+#ignore hands segmentation model
+hands/
+
+misc_test/
+roboflow_test/
+
+test_processed/
+webcam/
+
