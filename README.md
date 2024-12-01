@@ -1,3 +1,7 @@
+# Overview
+
+ASL letter classifier (A-Z, space, delete, nothing) based on transfer learning from ResNet18 coupled with hand-segmentation preprocessing using https://github.com/guglielmocamporese/hands-segmentation-pytorch
+
 # Instructions
 
 Please follow the instructions provided in the `main.ipynb` notebook to get started with the project. The notebook contains detailed steps and explanations to guide you through the process.
